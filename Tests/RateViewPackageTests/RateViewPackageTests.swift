@@ -1,7 +1,7 @@
 import XCTest
-@testable import RateViewPackage
+@testable import RateView
 
-final class RateViewPackageTests: XCTestCase {
+final class RateViewTests: XCTestCase {
     func testExample() throws {
         // XCTest Documentation
         // https://developer.apple.com/documentation/xctest
