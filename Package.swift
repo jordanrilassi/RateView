@@ -18,8 +18,5 @@ let package = Package(
             name: "RateView",
             path: "RateView",
             publicHeadersPath: "."),
-        .testTarget(
-            name: "RateViewTests",
-            dependencies: ["RateView"]),
     ]
 )
